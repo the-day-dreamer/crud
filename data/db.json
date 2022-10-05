@@ -1,0 +1,70 @@
+{
+  "employee": [
+    {
+      "name": "AMAN",
+      "address": "idk",
+      "number": 123,
+      "id": 1
+    },
+    {
+      "name": "AMAN",
+      "address": "idk",
+      "number": 123,
+      "id": 2
+    },
+    {
+      "name": "AMAN",
+      "address": "idk",
+      "number": 123,
+      "id": 3
+    },
+    {
+      "name": "AMAN",
+      "address": "idk",
+      "number": 123,
+      "id": 4
+    },
+    {
+      "name": "rohan",
+      "address": "idjsds",
+      "number": "4243243353",
+      "id": 7
+    },
+    {
+      "name": "ANSHU",
+      "address": "WALKE STREET,DISANG HOSTEL",
+      "number": "4243243353",
+      "id": 8
+    },
+    {
+      "name": "ANSHU",
+      "address": "WALKE STREET,DISANG HOSTEL",
+      "number": "4243243353",
+      "id": 9
+    },
+    {
+      "name": "dsd",
+      "address": "ssf",
+      "number": "22424",
+      "id": 10
+    },
+    {
+      "name": "aman",
+      "address": "raj",
+      "number": "483274632742",
+      "id": 11
+    },
+    {
+      "name": "Arpita",
+      "address": "walker street, D-block , Delhi",
+      "number": "48327483247384",
+      "id": 12
+    },
+    {
+      "name": "cz",
+      "address": "zcz",
+      "number": "5353",
+      "id": 13
+    }
+  ]
+}

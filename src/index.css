@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 50px;
+    border-bottom: 2px solid grey;
+}
+.navbar div span{
+    color:grey;
+}
+.container{
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.navbar a{
+    text-decoration: none;
+    color: grey;
+}
+.form-flex{
+    
+    display: flex;
+    /* flex-direction: column; */
+    
+}
+.form-flex div{
+    margin: 2rem;
+}
+.myBtn{
+    position: absolute;
+    bottom: 40vh;
+    left: 41vw;
+    background-color: grey;
+    color: beige;
+    border-radius: 1rem;
+    padding: .5rem;
+    cursor: pointer;
+}
+.form-component{
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+}
+.contain{
+    border: 2px solid black;
+}
